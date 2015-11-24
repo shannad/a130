@@ -230,6 +230,8 @@ Agencies shall:
 
  c) Information is managed with clearly designated roles and responsibilities to promote effective and efficient design and operation of information resources management processes within their agency.
 
+ d) Consistent with Executive Order 13587, Section 7 (e), the activities directed by this section, including by not limited to the Insider Threat Program, shall not seek to deter, detect, or mitigate disclosures of information by Government employees or contractors that are lawful under and protected by the Intelligence Community Whistleblower Protection Act of 1998, Whistleblower Protection Act of 1989, Inspector General Act of 1978, or similar statutes, regulations, or policies, and shall contain the following addendum: These provisions are consistent with and do not supersede, conflict with, or otherwise alter the employee obligations, rights, or liabilities created by existing statute or Executive order relating to (1) classified information, (2) communications to Congress, (3) the reporting to an Inspector General of a violation of any law, rule, or regulation, or mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety, or (4) any other whistleblower protection. The definitions, requirements, obligations, rights, sanctions, and liabilities created by controlling Executive orders and statutory provisions are incorporated into this agreement and are controlling.
+
 2) Agencies shall use these practices to:
 
  a) Collect or create information in a way that supports downstream interoperability among information systems and streamlines dissemination to the public, where appropriate, by:
